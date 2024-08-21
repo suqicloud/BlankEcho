@@ -1,0 +1,89 @@
+/* 主题设置样式 */
+
+/* 容器 */
+.becustom-settings-container {
+    margin: 20px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* 标题样式 */
+.becustom-settings-header {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* 消息 */
+.becustom-success-message {
+    background: #dff0d8;
+    color: #3c763d;
+    padding: 10px;
+    border-left: 5px solid #d0e9c6;
+    margin-bottom: 20px;
+}
+
+/* 保存 */
+.becustom-save-button {
+    background: #0073aa;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.becustom-save-button:hover {
+    background: #006799;
+}
+
+/* 输入框样式 */
+.becustom-settings-input {
+    width: calc(100% - 110px);
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-right: 10px;
+    max-width: 30%;
+}
+
+/* 上传按钮样式 */
+.becustom-upload-button {
+    padding: 8px 12px;
+    border: 1px solid #0073aa;
+    background: #f1f1f1;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.becustom-upload-button:hover {
+    background: #0073aa;
+    color: #ffffff;
+}
+
+/* 复选框样式 */
+.becustom-settings-checkbox {
+    margin-right: 5px;
+}
+
+/* 文本区域样式 */
+.becustom-settings-textarea {
+    width: 40%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+
+/* 图像预览样式 */
+.becustom-featured-image-preview {
+    max-width: 10%;
+    height: auto;
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
