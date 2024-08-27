@@ -28,3 +28,5 @@ css文件：style（网站前台需要的）、admin-style（主题后台设置�
 图片：screenshot（WordPress主题需要的）、备案图标
 
 没有js文件，评论功能的comments文件，也保留了一个空文件。原则上这个主题也不会更新了，除非有bug。
+
+基于php8.0开发的。
